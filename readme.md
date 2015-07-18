@@ -1,0 +1,1 @@
+This Respory contains google code jam solutoins and misc scripts.
