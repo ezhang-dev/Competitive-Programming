@@ -1,0 +1,10 @@
+/* 
+ * This is a custom version of `V8 4.2.0` that adds three functions in order to perform I/O and aid in online judging.
+ *
+ * * `print(...)`: similar to Python's `print`, prints all argument separated by space followed by new line.
+ * * `gets()`: similar to the Ruby equivalent, returns one line of input from `stdin`.
+ * * `quit(code)`: exits the program with `code`
+ *
+ */
+ 
+ print("Hello, World!")

@@ -1,0 +1,8 @@
+q=lambda _: int(input())
+q(1)
+a=list(map(int,input().split(' ')))
+b=list(map(int,input().split(' ')))
+a.sort()
+b.sort()
+a.reverse()
+print(sum(map(lambda q:q[0]*q[1],zip(a,b))))

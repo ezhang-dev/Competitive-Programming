@@ -1,0 +1,1 @@
+print("Yes" if (int(input(),16)+int(input(),16)>1061109567) else "No")

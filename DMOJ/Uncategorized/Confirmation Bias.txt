@@ -1,0 +1,1 @@
+print ((not "")?"This is a Perl program.":"This is a Ruby program.")

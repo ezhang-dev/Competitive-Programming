@@ -1,1 +1,2 @@
-This Respory contains google code jam solutoins and misc scripts.
+My competitive programming solutions 
+Currently problems are from google code jam or don mills online judge

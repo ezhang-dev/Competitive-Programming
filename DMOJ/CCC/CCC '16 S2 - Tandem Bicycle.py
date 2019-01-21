@@ -1,0 +1,10 @@
+q=lambda _: int(input())
+t=q(1)
+q(1)
+a=list(map(int,input().split(' ')))
+b=list(map(int,input().split(' ')))
+a.sort()
+b.sort()
+if t==2:
+    a.reverse()
+print(sum(map(max,zip(a,b))))
