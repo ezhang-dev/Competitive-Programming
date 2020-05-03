@@ -1,2 +1,4 @@
-My competitive programming solutions 
-Currently problems are from google code jam or don mills online judge
+# My competitive programming solutions
+
+Problems are from Google Code Jam or DMOJ
+
